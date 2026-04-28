@@ -13,7 +13,7 @@ The G37R mutation in MDH2 is a pathogenic variant. This substitution replaces a 
 ![alt text](images/XXX.png)
 
 2. image of modification site
-![alt text](images/XXX.png)
+![alt text](images/modifiedhumanmdh2.png)
 
 
 ## Effect of the sequence variant on MDH dynamics
