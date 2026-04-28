@@ -1,1 +1,66 @@
-# Project-4-Biochemistry
+# Human mitochondrial malate dehydrogenase
+# P40926
+# G37R
+
+
+## Description of the protein and variation site
+
+# Malate dehydrogenase is a key metabolic enzyme in humans that catalyzes the reversible conversion of malate to oxaloacetate using NAD+/NADH. Humans have three MDH genes that produce four known isoforms, which typically function as dimers with highly conserved substrate and cofactor-binding regions. The two main isoforms are cytosolic MDH1 and mitochondrial MDH2. MDH1 is involved in the malate–aspartate shuttle and gluconeogenesis, while a less common variant, MDH1x, is targeted to peroxisomes. MDH2 is located in mitochondria and plays an essential role in the Krebs cycle, a central pathway for energy production.
+These enzymes are expressed in all tissues, with especially high levels in energy-demanding organs such as the heart, brain, and skeletal muscle. A third gene, MDH1B, is more specifically expressed in the pituitary gland and testes. Because MDH enzymes are critical for cellular energy metabolism, mutations that impair their function can lead to severe disorders, including encephalopathy, recurrent seizures, and elevated lactate levels (Haberman & Peterson, 2024).
+The G37R mutation in MDH2 is a pathogenic variant. This substitution replaces a small glycine with a larger, positively charged arginine within a conserved region near the NAD+ binding site, likely introducing steric hindrance and disrupting local structure. Consistent with this, functional studies have shown markedly reduced MDH2 protein levels and near-complete loss of enzymatic activity. Clinically, this deficiency is associated with early-onset severe encephalopathy, characterized by refractory epilepsy, hypotonia, psychomotor delay, and elevated lactate in the blood and cerebrospinal fluid (Ait-El-Mkadem et al., 2017).
+
+1. image of the unmodified site
+![alt text](images/XXX.png)
+
+2. image of modification site
+![alt text](images/XXX.png)
+
+
+## Effect of the sequence variant on MDH dynamics
+
+Compare the data on the variant to the project 2 data
+
+
+1. Image of aligned PDB files (no solvent)
+
+2. Image of the site with the aligned PDB files (no solvent)
+
+3. Annotated RMSF plot showing differences between the simulations
+![alt text](images/XXX.png)
+
+4. Annotated plots of pKa for the key amino acids
+
+5. If needed, show ligand bound images and how modification affects substrate binding
+
+Description of the data and changes
+
+
+## Conclusions and key takeaways
+
+
+
+## Authors
+
+Contributors names
+
+## Deposition Date
+
+## License
+
+Shield: [![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
+
+This work is licensed under a
+[Creative Commons Attribution-NonCommercial 4.0 International License][cc-by-nc].
+
+[![CC BY-NC 4.0][cc-by-nc-image]][cc-by-nc]
+
+[cc-by-nc]: https://creativecommons.org/licenses/by-nc/4.0/
+[cc-by-nc-image]: https://licensebuttons.net/l/by-nc/4.0/88x31.png
+[cc-by-nc-shield]: https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg
+
+
+## References
+
+* Citation1 ![DOI](DOI link)
+
+* Citation2 ![DOI](DOI link)
