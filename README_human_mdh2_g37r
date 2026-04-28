@@ -13,7 +13,7 @@ The G37R mutation in MDH2 is a pathogenic variant. This substitution replaces a 
 ![alt text](images/XXX.png)
 
 2. image of modification site
-![alt text](images/modifiedhumanmdh2.png)
+![alt text](Images/modifiedhumanmdh2.png)
 
 
 ## Effect of the sequence variant on MDH dynamics
@@ -26,8 +26,8 @@ Compare the data on the variant to the project 2 data
 2. Image of the site with the aligned PDB files (no solvent)
 
 3. Annotated RMSF plot showing differences between the simulations
-![alt text](images/rmsfplothumanmdh2_g37_r.png)
-![alt text](images/rmsfplothumanmdh2.png)
+![alt text](Images/rmsfplothumanmdh2_g37_r.png)
+![alt text](Images/rmsfplothumanmdh2.png)
 
 4. Annotated plots of pKa for the key amino acids
 
